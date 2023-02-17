@@ -18,7 +18,7 @@
                 <main>
         <img src="https://wow-emotion.ru/wp-content/uploads/mk_igri_na_muz_instrumentah.jpg" width="1500px" height="550px" />                </main>
         </main>
-        <h2 style="font-family;font-size:60px;">В нашем магазине вы найдете много музыкальных инструментов"</h2>
+        <h2 style="font-family;font-size:40px;">В нашем магазине вы найдете много музыкальных инструментов</h2>
                         <h2 id="прайс-лист">Цена наших товаров</h2>      
                 <table border="1">
                     <tr>
