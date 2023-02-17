@@ -9,9 +9,8 @@
  </div>
 </div> 
     <h1 style="text-align:center;background:lightgreen;
- front-family: verdana">Музыкальная шкатулка</h1>
-    <h2 style="text-align:center;background:limegreen
-    ;font-size:25px">Магазин музыкальных инструментов</h2>
+ font-family: verdana">Музыкальная шкатулка</h1>
+    <h2 style="text-align:center;background:limegreen;font-size:25px">Магазин музыкальных инструментов</h2>
     <marquee style="color: green; font-size: 25px; font-weight: bolder; line-height: 150%; text-shadow: #000000 0px 1px 1px;font-family: garamond">Из наслаждений жизни одной любви музы́ка уступает. Но и любовь— мелодия… А. С. Пушкин</marquee>  
     <a href="#прайс-лист" style="text-align:center;font-family:sans-serif;font-size:25px">Прайс-лист</a>
         </header>  
