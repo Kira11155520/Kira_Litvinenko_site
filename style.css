@@ -1,0 +1,51 @@
+table {
+    font-family: serif;
+    color: rgb(43, 146, 43);
+    font-size: 35px;
+}
+
+img { 
+    margin-top: 10px;
+    margin-left: 50px;
+    margin-right: 25px ;
+    margin-bottom: 30px;
+    border-bottom: dotted 10px rgb(68, 131, 68); 
+    border-top: dotted 10px rgb(68, 131, 68);
+    border-top: dotted 10px rgb(68, 131, 68);
+    border-left: dotted 10px rgb(68, 131, 68); 
+    border-right: dotted 10px rgb(68, 131, 68);
+}
+h1 {
+    font-family: initial;
+}
+h2 {
+    font-family: cursive;
+}
+h3 {
+    font-family: inherit;
+    color: lawngreen;
+    border-bottom: double 10px lightgreen; 
+    border-top: double 10px lightgreen;
+    border-top: double 10px lightgreen;
+    border-left: double 10px lightgreen; 
+    border-right: double 10px lightgreen;
+
+}
+input::-webkit-input-placeholder {
+    text-align: center;
+  color: limegreen; 
+  font-style: italic; 
+  background: lightgreen;
+}
+input:-moz-placeholder {
+    text-align: center;
+  color: lightgreen; 
+  font-style: italic; 
+  background: limegreen;
+}
+input:-ms-input-placeholder {
+    text-align: center;
+  color: lightgreen; 
+  font-style: italic; 
+  background: limegreen;
+}
