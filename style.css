@@ -54,7 +54,7 @@ h23 {
     background-color: rgb(224, 255, 179);
     font-size: 25px;
     text-align: center;
-    margin: 130px;
+    margin: 120px;
    
     border-radius: 10%;
 
@@ -70,9 +70,9 @@ footer {
   
     font-size: 15px;
     position: fixed;
-    bottom: 1px;
+    right: 1px;
     width: 100%;
     right: 1px;
-    top: 524px;
+    left: 524px;
 }
 
