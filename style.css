@@ -49,3 +49,30 @@ input:-ms-input-placeholder {
   font-style: italic; 
   background: limegreen;
 }
+h23 {
+    color:rgb(125, 187, 32);
+    background-color: rgb(224, 255, 179);
+    font-size: 25px;
+    text-align: center;
+    margin: 130px;
+   
+    border-radius: 10%;
+
+}
+h23:hover {
+    border-bottom: double 5px rgb(62, 175, 62);
+}
+h1:hover {
+   border-right: double 10px green;
+    border-left: double 10px green;
+}
+footer {
+  
+    font-size: 15px;
+    position: fixed;
+    bottom: 1px;
+    width: 100%;
+    right: 1px;
+    top: 524px;
+}
+
