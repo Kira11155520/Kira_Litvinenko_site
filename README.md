@@ -4,7 +4,7 @@
 </head>
 
     
- <div
+ <div>
   <h20 href="ссылка_на_главную">
    <img src="https://klike.net/uploads/posts/2022-11/1667801816_3-18.png" width="100px" height="100px" />
   </h20>
