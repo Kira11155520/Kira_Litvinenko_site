@@ -54,25 +54,52 @@ h23 {
     background-color: rgb(224, 255, 179);
     font-size: 25px;
     text-align: center;
-    margin: 100px;
+    margin: 130px;
    
     border-radius: 10%;
 
 }
 h23:hover {
     border-bottom: double 5px rgb(62, 175, 62);
+    list-style-type: none;
 }
 h1:hover {
    border-right: double 10px green;
     border-left: double 10px green;
 }
-footer {
-  
+h2 {
     font-size: 15px;
-    position: fixed;
-    right: 1px;
-    width: 100%;
-    
-    left: 524px;
 }
-
+.socseti img{
+    position: fixed;
+    right: 2px;
+    top: 2px;
+    width: 40px;
+    background-color: rgb(109, 214, 109);
+    
+    height: 40px;
+     border-radius: 50%;
+   
+}
+.so img{
+    position: fixed;
+    right: 70px;
+    top: 2px;
+    width: 40px;
+    background-color: rgb(109, 214, 109);
+    
+    height: 40px;
+     border-radius: 50%;
+   
+}
+.soc img{
+    position: fixed;
+    right: 140px;
+    top: 2px;
+    width: 40px;
+    background-color: rgb(109, 214, 109);
+    
+    height: 40px;
+     border-radius: 50%;
+   
+}
