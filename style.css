@@ -29,6 +29,7 @@ h3 {
     border-top: double 10px lightgreen;
     border-left: double 10px lightgreen; 
     border-right: double 10px lightgreen;
+    padding: 5px;
 
 }
 input::-webkit-input-placeholder {
