@@ -16,9 +16,9 @@
     <h2 style="text-align:center;background:limegreen
     ;font-size:25px">Интернет-магазин музыкальных инструментов</h2>
      <div class="navigatia">
-            <a href="#glavni">Главная</h23>
-            <a href="us">О нас</h23>
-            <a href="prise">Прайс-лист</h23>
+            <a href="#glavni">Главная</a>
+            <a href="us">О нас</a>
+            <a href="prise">Прайс-лист</a>
             
         </div>
     <marquee style="color: limegreen; font-size: 25px; font-weight: bolder; line-height: 150%; text-shadow: #000000 0px 1px 1px;font-family: initial">Из наслаждений жизни одной любви музыка уступает. Но и любовь— мелодия… А. С. Пушкин</marquee>  
