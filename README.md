@@ -29,10 +29,10 @@
               
         <h2 style="font-family;font-size:60px;"В нашем магазине вы найдете много музыкальных инструментов> 
         </h2>
-                              
-                <table border="1">
+               < div class = "tab">              
+                <table>
                     <tr>
-                        <td>Барабан</td
+                        <td>Барабан</td>
                         <td>Пианино</td>
                         <td>Скрипка</td>
                         <td>Гитара</td>
@@ -58,6 +58,7 @@
                         <td>190 920 рублей</td> 
                     </tr>
                 </table>
+                </div>
 
                  <img src="https://express-china.ru/upload/iblock/7e7/maxresdefault.jpg" width="1500px" height="750px" >
                  <footer>
