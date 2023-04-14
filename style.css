@@ -119,6 +119,8 @@ h2 {
     font-size:30px;
     background-color:lightgreen;
     color: limegreen;
+    text-decoration: None;
+    padding: 15px;
 }
 .navigatia a:hover{
     border-bottom:3px double green;
