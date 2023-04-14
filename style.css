@@ -110,5 +110,16 @@ h2 {
 }
 .instruments{
     font-size: 60px;
-    
+}
+.navigatia{
+    display:flex;
+    justify-content:center;
+}
+.navigatia a{
+    font-size:30px;
+    background-color:lightgreen;
+    color: limegreen;
+}
+.navigatia a:hover{
+    border-bottom:3px double green;
 }
