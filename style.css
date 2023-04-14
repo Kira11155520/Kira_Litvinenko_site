@@ -105,6 +105,7 @@ h2 {
 }
 .tab{
     border: 3px solid black;
+    padding: 5px;
 }
 .instruments{
     font-size: 60px;
