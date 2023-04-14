@@ -27,9 +27,8 @@
         <img src="https://wow-emotion.ru/wp-content/uploads/mk_igri_na_muz_instrumentah.jpg" width="1500px" height="750px" />  
        
               
-        <h2 class = "instruments">В нашем магазине вы найдете много музыкальных инструментов</h2>
-               < div class = "tab">              
-                <table>
+        <h2 class = "instruments">В нашем магазине вы найдете много музыкальных инструментов</h2>              
+                <table class="tab">
                     <tr>
                         <td>Барабан</td>
                         <td>Пианино</td>
@@ -56,9 +55,7 @@
                         <td>27 918 рублей</td>
                         <td>190 920 рублей</td> 
                     </tr>
-                </table>
-                </div>
-
+                </table>            
                  <img src="https://express-china.ru/upload/iblock/7e7/maxresdefault.jpg" width="1500px" height="750px" >
                  <footer>
         <h2 style="background:limegreen;text-align:center;font-size:15px.">Вы можете найти нас на: ул.Ленина;г.Москва.Наш номер  телефона:+xxx zzz-dd-qq</h2>
