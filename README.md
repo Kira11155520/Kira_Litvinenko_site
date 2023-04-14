@@ -11,23 +11,23 @@
  </div>
 
      
-      <h1 style ="text-align:center;background:lightgreen;" >Музыкальная шкатулка</h1>          
+      <h1 id = "glavni" style ="text-align:center;background:lightgreen;" >Музыкальная шкатулка</h1>          
     
     <h2 style="text-align:center;background:limegreen
     ;font-size:25px">Интернет-магазин музыкальных инструментов</h2>
-     <ul class="navigatia">
-            <h23 href="glavni">Главная</h23>
-            <h23 href="">О нас</h23>
-            <h23 href="">Прайс-лист</h23>
+     <div class="navigatia">
+            <h23 href="#glavni">Главная</h23>
+            <h23 href="us">О нас</h23>
+            <h23 href="prise">Прайс-лист</h23>
             
-        </ul>
+        </div>
     <marquee style="color: limegreen; font-size: 25px; font-weight: bolder; line-height: 150%; text-shadow: #000000 0px 1px 1px;font-family: initial">Из наслаждений жизни одной любви музыка уступает. Но и любовь— мелодия… А. С. Пушкин</marquee>  
      
    
         <img src="https://wow-emotion.ru/wp-content/uploads/mk_igri_na_muz_instrumentah.jpg" width="1500px" height="750px" />  
        
               
-        <h2 class = "instruments">В нашем магазине вы найдете много музыкальных инструментов</h2>              
+        <h2 id = "price" class = "instruments">В нашем магазине вы найдете много музыкальных инструментов</h2>              
                 <table class="tab">
                     <tr>
                         <td>Барабан</td>
@@ -58,7 +58,7 @@
                 </table>            
                  <img src="https://express-china.ru/upload/iblock/7e7/maxresdefault.jpg" width="1500px" height="750px" >
                  <footer>
-        <h2 style="background:limegreen;text-align:center;font-size:15px.">Вы можете найти нас на: ул.Ленина;г.Москва.Наш номер  телефона:+xxx zzz-dd-qq</h2>
+        <h2 id = "us" style="background:limegreen;text-align:center;font-size:15px.">Вы можете найти нас на: ул.Ленина;г.Москва.Наш номер  телефона:+xxx zzz-dd-qq</h2>
                  </footer>
         <img src="https://thumbs.dreamstime.com/b/сияющие-музыка-ьные-примечания-47016818.jpg" width="1000px" height="500px" >
          <h1 style="text-align:center;background:lightgreen;">Барабан</h1>
@@ -320,7 +320,7 @@ height="750px">
 Серебристый Саксофон (Загадка)</marquee>
 <img src="https://radiojazzfm.ru/uploads/photos/1/Sax%20Party.jpg" width="1500px" 
 height="750px">
-        <h2 style="text-align:center;background:limegreen;font-size:25px"История /h2>
+        <h2 style="text-align:center;background:limegreen;font-size:25px">История </h2>
  <h3>Начало истории саксофона не надо искать в глубине веков, так как инструмент сравнительно молодой, и возник он только в сороковых годах позапрошлого века. Весь путь происхождения саксофона тесно связан с биографией его великого изобретателя Адольфа Антуана Жозефа Сакса, который появился на свет 6 ноября 1814 года в маленьком бельгийском городке Динанте. Отцом Адольфа был замечательный мастер по изготовлению музыкальных инструментов, настолько успешный, что смог получить приглашение в столицу Бельгии Брюссель для назначения на должность придворного мастера, отвечающего за обеспечение военных оркестров духовыми инструментами.
 
 Музыкальные способности и увлечение конструированием у своего первенца Шарль Сакс заметил еще в раннем детстве. Мальчик вместо веселых игр со своими ровесниками любил проводить время в мастерской отца, наблюдая за его работой. Уже к шестнадцати годам Антуан, освоил филигранную технику производства деталей духовых инструментов и совместно с инструментами отца отправил на выставку изготовленные им кларнет и две флейты.
@@ -347,7 +347,7 @@ height="750px">
 <marquee style="color: limegreen; font-size: 25px; font-weight: bolder; line-height: 150%; text-shadow: #000000 0px 1px 1px;font-family: initial">Обыкновенные арфы звучат в любой руке; эоловы арфы — лишь тогда, когда по их струнам ударяет буря.</marquee>
 <img src="https://i.pinimg.com/originals/2e/2a/e0/2e2ae097b41ace3641aebe046514b2fb.jpg" width="1500px" 
 height="750px">
-        <h2 style="text-align:center;background:limegreen;font-size:25px"История /h2>
+        <h2 style="text-align:center;background:limegreen;font-size:25px">История </h2>
         <h3>По поводу возникновения арфы слагают легенды и притчи. Принято считать прародителем этого инструмента деревянный лук, натянутая тетива которого издаёт звучание, а витиеватый контур напоминает изгибы арфы. Её находят на раскопках древних шумерских поселений, что говорит о том, что арфа появилась на заре эволюции человеческой расы.
 
 Подобные инструменты всплывают в Африканских племенах, древнем Египте, Греции, Римской Империи. Их украшали драгоценностями, добавляли элементы из слоновой кости, золота, серебра. В Золотом веке на этом инструменте исполняли преимущественно церковные произведения. Музыку для них сочиняли монахи.
@@ -379,7 +379,7 @@ height="750px">
 <marquee style="color: limegreen; font-size: 25px; font-weight: bolder; line-height: 150%; text-shadow: #000000 0px 1px 1px;font-family: initial">Тому, кто хочет всерьез заняться музыкой, нужно помнить: аккордеон способен заменить практически все инструменты.</marquee>
 <img src="http://klubmama.ru/uploads/posts/2022-08/1661508659_20-klubmama-ru-p-akkordeon-podelka-foto-22.jpg" width="1500px" 
 height="750px">
-        <h2 style="text-align:center;background:limegreen;font-size:25px"История /h2>
+        <h2 style="text-align:center;background:limegreen;font-size:25px">История </h2>
         <h3>История инструмента начинается с изобретения губной гармоники, прародителем которой является китайский священный инструмент шэн. В нем для создания звука использовались свободно вибрирующие язычки, вставленные в бамбуковые трубочки, которые прикреплялись к резонаторному корпусу. Шэн в Европу попал по торговым путям и там, в конце 18 века, начал свое кардинальное преобразование.
 
 Поначалу органный мастер Ф. Киршник  в1777 году в результате эксперимента изобрел язычковые планки, которые в дальнейшем нашли применение в ручных гармониках.
