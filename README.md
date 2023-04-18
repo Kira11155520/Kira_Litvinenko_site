@@ -11,9 +11,9 @@
  </div>
 
      
-      <h1 id = "glavni" style ="text-align:center;background:lightgreen;" >Музыкальная шкатулка</h1>          
+      <h1 id = "glavni" style ="text-align:center;">Музыкальная шкатулка</h1>          
     
-    <h2 style="text-align:center;background:limegreen
+    <h2 style="text-align:center;
     ;font-size:25px">Интернет-магазин музыкальных инструментов</h2>
      <div class="navigatia">
             <a href="#glavni">Главная</a>
