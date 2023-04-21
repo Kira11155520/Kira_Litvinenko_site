@@ -429,13 +429,13 @@ height="750px">
     <li><a href="#tg"><i>
        
 <h70 class="socseti">
-<a href="https://t.me/samoychitelsitov"><img src="https://www.digiseller.ru/preview/829303/p1_3158328_98a764df.png" width="30px" height="30px">
+<img src="https://www.digiseller.ru/preview/829303/p1_3158328_98a764df.png" width="30px" height="30px">
 </h70></i></a></li>
-    <li><a href="#insta"><i><h71 class="so">
-<a href="https://instagram.com/samoychitelsitov?igshid=ZDdkNTZiNTM="><img src="https://dostavka-ecoproduktov.ru/upload/medialibrary/095/0957069011edf621a2d6c1a2f6e6dfcf.png" width="30px" height="30px">
+    <li><a href="https://instagram.com/samoychitelsitov?igshid=ZDdkNTZiNTM="><i><h71 class="so">
+<img src="https://dostavka-ecoproduktov.ru/upload/medialibrary/095/0957069011edf621a2d6c1a2f6e6dfcf.png" width="30px" height="30px">
 </h71></i></a></li>
-    <li><a href="#vk"><i><h72 class="soc">
-<a href="https://vk.me/join/AJQ1d_wVlSbWcsnhX_2Xdwyb"><img src="https://rt.shop.by/images/vk.png" width="30px" height="30px">
+    <li><a href="https://vk.me/join/AJQ1d_wVlSbWcsnhX_2Xdwyb"><i><h72 class="soc">
+<img src="https://rt.shop.by/images/vk.png" width="30px" height="30px">
 </h72>
 
 </i></a></li>
