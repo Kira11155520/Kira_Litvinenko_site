@@ -7,7 +7,7 @@
     
  <div>
   <h20 href="ссылка_на_главную">
-   <img src="https://klike.net/uploads/posts/2022-11/1667801816_3-18.png" width="100px" height="100px" />
+   <img src="https://png.pngtree.com/png-clipart/20230818/original/pngtree-violin-clef-and-background-picture-image_8010310.png" width="100px" height="100px" />
   </h20>
  </div>
 
