@@ -450,17 +450,7 @@ height="750px">
   <label for="slaid1"></label>
   <label for="slaid2"></label>
   
-  </div>
-   
-  <div class="adaptivny-slayder-lasekun">
-  <div class="abusteku-deagulus">
- <img src="https://im.wampi.ru/2023/04/21/WhatsApp-Image-2023-04-18-at-20.06.22.jpg" alt="WhatsApp-Image-2023-04-18-at-20.06.22.jpg" border="0">
-  <img src="https://ie.wampi.ru/2023/04/21/WhatsApp-Image-2023-04-18-at-20.15.01.jpg" alt="WhatsApp-Image-2023-04-18-at-20.15.01.jpg" border="0">
-  </div>
-  </div>
-</div>
-    </header>
-    <p>
+
     
 <h3>Здраствуйте! Меня зовут Кира Литвиненко мне 15 и я создатель данного сайта. Три года назад я начала заниматься созданием сайтов. Мне очень интересно програмирование, мне нравится изучать новые теги благодаря которым я создаю определенные элементы из сайта. По моему мнению создание сайтов - это захватывающий процесс превращения идей в живые цифровые продукты с помощью творчества и технологий.</h3>
 
